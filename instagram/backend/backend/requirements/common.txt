@@ -1,0 +1,4 @@
+django~=3.0
+pillow
+djangorestframework
+dajngo-cors-headers
